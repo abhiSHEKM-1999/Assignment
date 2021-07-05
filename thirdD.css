@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+
+}
+.first
+{
+   height: 300px;
+   width: 100%;
+    background-color:grey;
+    padding: 10px;
+    display: flex;
+}
+.second{
+    height: 200px;
+    width: 100%;
+    background-color : black;
+    padding:0px;
+}
+.ch1{
+    height: 200px;
+    width: 15%;
+    background-color: red;
+    margin: 5%;
+
+
+}
+.ch2
+{
+    height: 100px;
+    width: 20%;
+margin: 2%;
+display: inline-block;
+background-color: grey;
+}
